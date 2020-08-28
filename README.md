@@ -1,1 +1,1 @@
-# CNN---Cats-Vs-Dogs-
+# Convolutional Neural Network Cats-Vs-Dogs Categorization
